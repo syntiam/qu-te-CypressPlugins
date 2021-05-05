@@ -1,1 +1,1 @@
-# qute-CypressPlugins
+# quete-CypressPlugins
